@@ -8,9 +8,9 @@ These transcripts aim to provide a supplementary resource for learning during th
 
 **Introduction to Computation for the Social Sciences**  
 
-- [The Digital Society]()
-- [What is Computer Science?]()
-- [Computational Social Science]()  
+- [The Digital Society](https://dgarcia-eu.github.io/IntroCSS-UniKonstanz/01_Introduction/011_TheDigitalSociety/TheDigitalSociety.html)
+- What is Computer Science?
+- [Computational Social Science](https://dgarcia-eu.github.io/IntroCSS-UniKonstanz/01_Introduction/013_ComputationalSocialScience/ComputationalSocialScience.html)  
 
 **Information Coding**
 
@@ -19,41 +19,41 @@ These transcripts aim to provide a supplementary resource for learning during th
 
 
 
-- **Programming**
+**Programming**
 
 
 
 
-- **Algorithms**
+**Algorithms**
 
 
 
 
-- **Recursion**
+**Recursion**
 
 
 
 
-- **Sorting Algorithms and Complexity**
+**Sorting Algorithms and Complexity**
 
 
 
 
-- **Formal Languages and Automata**
+**Formal Languages and Automata**
 
 
 
 
-- **Turing Machines and Complexity Classes**
+**Turing Machines and Complexity Classes**
 
 
 
-- **Parallel Programming**
+**Parallel Programming**
 
 
 
-- **Databases**
+**Databases**
 
 
 
-- **Social Science Applications**
+**Social Science Applications**
