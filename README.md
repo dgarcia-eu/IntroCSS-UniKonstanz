@@ -9,7 +9,7 @@ These transcripts aim to provide a supplementary resource for learning during th
 **Introduction to Computation for the Social Sciences**  
 
 - [The Digital Society](https://dgarcia-eu.github.io/IntroCSS-UniKonstanz/01_Introduction/011_TheDigitalSociety/TheDigitalSociety.html)
-- What is Computer Science?
+- [What is Computer Science?](https://dgarcia-eu.github.io/IntroCSS-UniKonstanz/01_Introduction/012_ComputerScience/ComputerScience.html)
 - [Computational Social Science](https://dgarcia-eu.github.io/IntroCSS-UniKonstanz/01_Introduction/013_ComputationalSocialScience/ComputationalSocialScience.html)  
 
 **Information Coding**
