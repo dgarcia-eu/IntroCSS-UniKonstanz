@@ -14,6 +14,9 @@ These transcripts aim to provide a supplementary resource for learning during th
 
 **Information Coding**
 
+- [Information Coding Basics](https://dgarcia-eu.github.io/IntroCSS-UniKonstanz/02_InformationCoding/021_InfoCodingBasics/InfoCodingBasics.html)  
+- [Character Coding](https://dgarcia-eu.github.io/IntroCSS-UniKonstanz/02_InformationCoding/022_CharacterCoding/CharacterCoding.html)
+- [Data Types and Operations](https://dgarcia-eu.github.io/IntroCSS-UniKonstanz/02_InformationCoding/023_DataTypes/DataTypes.html)
 
 **Data Structures**
 
