@@ -15,6 +15,7 @@ These transcripts aim to provide a supplementary resource for learning during th
 **Information Coding**
 
 - [Information Coding Basics](https://dgarcia-eu.github.io/IntroCSS-UniKonstanz/02_InformationCoding/021_InfoCodingBasics/InfoCodingBasics.html)
+- [Floating Point Encoding](https://dgarcia-eu.github.io/IntroCSS-UniKonstanz/02_InformationCoding/022_FloatingPoint/FloatingPoint.html)
 
 **Data Structures**
 
